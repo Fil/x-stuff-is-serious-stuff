@@ -1,5 +1,4 @@
 abstract.tex
-introduction.tex
 7da5.tex
 results.tex
 results_table.tex
